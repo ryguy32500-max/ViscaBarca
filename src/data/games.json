@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash (Lite)",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "url": "https://scratch.mit.edu/projects/105500895/embed",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/300"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball in the 3D running game.",
+    "url": "https://krunker.io/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and beat the competition.",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The classic bird flapping game.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300"
+  }
+]
