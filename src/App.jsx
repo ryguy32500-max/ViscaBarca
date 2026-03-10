@@ -34,7 +34,7 @@ export default function App() {
               <Gamepad2 className="text-black w-8 h-8" />
             </div>
             <h1 className="font-display text-4xl tracking-tighter uppercase italic">
-              Nexus <span className="text-[#00ff00]">Games</span>
+              Visca<span className="text-[#00ff00]">Barca</span>
             </h1>
           </div>
 
@@ -100,7 +100,7 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t-2 border-white/10 p-8 bg-[#0a0a0a]">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-white/40 font-mono text-xs uppercase tracking-widest">
-          <p>© 2026 Nexus Unblocked. All rights reserved.</p>
+          <p>© 2026 ViscaBarca Unblocked. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-[#00ff00]">Privacy</a>
             <a href="#" className="hover:text-[#00ff00]">Terms</a>
@@ -176,7 +176,7 @@ export default function App() {
               {/* Modal Footer (Controls/Info) */}
               <div className="p-4 border-t-2 border-white/10 bg-[#151515] flex justify-between items-center">
                 <p className="text-white/40 text-xs font-mono uppercase">
-                  Playing on Nexus Unblocked
+                  Playing on ViscaBarca Unblocked
                 </p>
                 <div className="flex gap-4">
                   <button className="text-[#00ff00] text-xs font-mono uppercase hover:underline">Report Issue</button>
